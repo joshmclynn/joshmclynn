@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @joshmclynn
-- 👀 I’m interested in ... Java
-- 🌱 I’m currently learning ... Java, javascript, php, html + css.
-- 💞️ I’m looking to collaborate on ...
+-
 - 📫 How to reach me ...mclynn_josh@hotmail.co.uk
 
 <!---
